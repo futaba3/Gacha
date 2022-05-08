@@ -13,6 +13,21 @@
 		85C14B932827AB31004E9098 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85C14B912827AB31004E9098 /* Main.storyboard */; };
 		85C14B952827AB33004E9098 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85C14B942827AB33004E9098 /* Assets.xcassets */; };
 		85C14B982827AB33004E9098 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85C14B962827AB33004E9098 /* LaunchScreen.storyboard */; };
+		85C14BB02827ABD5004E9098 /* bg_blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA12827ABD5004E9098 /* bg_blue@2x.png */; };
+		85C14BB12827ABD5004E9098 /* bg_gold@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA22827ABD5004E9098 /* bg_gold@2x.png */; };
+		85C14BB22827ABD5004E9098 /* gacha@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA32827ABD5004E9098 /* gacha@2x.png */; };
+		85C14BB32827ABD5004E9098 /* bg_red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA42827ABD5004E9098 /* bg_red@2x.png */; };
+		85C14BB42827ABD5004E9098 /* monster005.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA62827ABD5004E9098 /* monster005.png */; };
+		85C14BB52827ABD5004E9098 /* monster010.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA72827ABD5004E9098 /* monster010.png */; };
+		85C14BB62827ABD5004E9098 /* monster004.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA82827ABD5004E9098 /* monster004.png */; };
+		85C14BB72827ABD5004E9098 /* monster006.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BA92827ABD5004E9098 /* monster006.png */; };
+		85C14BB82827ABD5004E9098 /* monster007.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BAA2827ABD5004E9098 /* monster007.png */; };
+		85C14BB92827ABD5004E9098 /* monster003.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BAB2827ABD5004E9098 /* monster003.png */; };
+		85C14BBA2827ABD5004E9098 /* monster002.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BAC2827ABD5004E9098 /* monster002.png */; };
+		85C14BBB2827ABD5004E9098 /* monster001.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BAD2827ABD5004E9098 /* monster001.png */; };
+		85C14BBC2827ABD5004E9098 /* monster009.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BAE2827ABD5004E9098 /* monster009.png */; };
+		85C14BBD2827ABD5004E9098 /* monster008.png in Resources */ = {isa = PBXBuildFile; fileRef = 85C14BAF2827ABD5004E9098 /* monster008.png */; };
+		85C14BBF2827ADD7004E9098 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85C14BBE2827ADD7004E9098 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		85C14B942827AB33004E9098 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85C14B972827AB33004E9098 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		85C14B992827AB33004E9098 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85C14BA12827ABD5004E9098 /* bg_blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_blue@2x.png"; sourceTree = "<group>"; };
+		85C14BA22827ABD5004E9098 /* bg_gold@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_gold@2x.png"; sourceTree = "<group>"; };
+		85C14BA32827ABD5004E9098 /* gacha@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gacha@2x.png"; sourceTree = "<group>"; };
+		85C14BA42827ABD5004E9098 /* bg_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_red@2x.png"; sourceTree = "<group>"; };
+		85C14BA62827ABD5004E9098 /* monster005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster005.png; sourceTree = "<group>"; };
+		85C14BA72827ABD5004E9098 /* monster010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster010.png; sourceTree = "<group>"; };
+		85C14BA82827ABD5004E9098 /* monster004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster004.png; sourceTree = "<group>"; };
+		85C14BA92827ABD5004E9098 /* monster006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster006.png; sourceTree = "<group>"; };
+		85C14BAA2827ABD5004E9098 /* monster007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster007.png; sourceTree = "<group>"; };
+		85C14BAB2827ABD5004E9098 /* monster003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster003.png; sourceTree = "<group>"; };
+		85C14BAC2827ABD5004E9098 /* monster002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster002.png; sourceTree = "<group>"; };
+		85C14BAD2827ABD5004E9098 /* monster001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster001.png; sourceTree = "<group>"; };
+		85C14BAE2827ABD5004E9098 /* monster009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster009.png; sourceTree = "<group>"; };
+		85C14BAF2827ABD5004E9098 /* monster008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster008.png; sourceTree = "<group>"; };
+		85C14BBE2827ADD7004E9098 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +89,51 @@
 				85C14B8B2827AB31004E9098 /* AppDelegate.swift */,
 				85C14B8D2827AB31004E9098 /* SceneDelegate.swift */,
 				85C14B8F2827AB31004E9098 /* ViewController.swift */,
+				85C14BBE2827ADD7004E9098 /* ResultViewController.swift */,
 				85C14B912827AB31004E9098 /* Main.storyboard */,
+				85C14B9F2827ABD5004E9098 /* GachaResources */,
 				85C14B942827AB33004E9098 /* Assets.xcassets */,
 				85C14B962827AB33004E9098 /* LaunchScreen.storyboard */,
 				85C14B992827AB33004E9098 /* Info.plist */,
 			);
 			path = Gacha;
+			sourceTree = "<group>";
+		};
+		85C14B9F2827ABD5004E9098 /* GachaResources */ = {
+			isa = PBXGroup;
+			children = (
+				85C14BA02827ABD5004E9098 /* background */,
+				85C14BA52827ABD5004E9098 /* monster */,
+			);
+			path = GachaResources;
+			sourceTree = "<group>";
+		};
+		85C14BA02827ABD5004E9098 /* background */ = {
+			isa = PBXGroup;
+			children = (
+				85C14BA12827ABD5004E9098 /* bg_blue@2x.png */,
+				85C14BA22827ABD5004E9098 /* bg_gold@2x.png */,
+				85C14BA32827ABD5004E9098 /* gacha@2x.png */,
+				85C14BA42827ABD5004E9098 /* bg_red@2x.png */,
+			);
+			path = background;
+			sourceTree = "<group>";
+		};
+		85C14BA52827ABD5004E9098 /* monster */ = {
+			isa = PBXGroup;
+			children = (
+				85C14BA62827ABD5004E9098 /* monster005.png */,
+				85C14BA72827ABD5004E9098 /* monster010.png */,
+				85C14BA82827ABD5004E9098 /* monster004.png */,
+				85C14BA92827ABD5004E9098 /* monster006.png */,
+				85C14BAA2827ABD5004E9098 /* monster007.png */,
+				85C14BAB2827ABD5004E9098 /* monster003.png */,
+				85C14BAC2827ABD5004E9098 /* monster002.png */,
+				85C14BAD2827ABD5004E9098 /* monster001.png */,
+				85C14BAE2827ABD5004E9098 /* monster009.png */,
+				85C14BAF2827ABD5004E9098 /* monster008.png */,
+			);
+			path = monster;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +194,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85C14BB32827ABD5004E9098 /* bg_red@2x.png in Resources */,
 				85C14B982827AB33004E9098 /* LaunchScreen.storyboard in Resources */,
+				85C14BBC2827ABD5004E9098 /* monster009.png in Resources */,
+				85C14BB12827ABD5004E9098 /* bg_gold@2x.png in Resources */,
+				85C14BB92827ABD5004E9098 /* monster003.png in Resources */,
+				85C14BBB2827ABD5004E9098 /* monster001.png in Resources */,
+				85C14BBD2827ABD5004E9098 /* monster008.png in Resources */,
 				85C14B952827AB33004E9098 /* Assets.xcassets in Resources */,
+				85C14BB82827ABD5004E9098 /* monster007.png in Resources */,
+				85C14BB22827ABD5004E9098 /* gacha@2x.png in Resources */,
+				85C14BBA2827ABD5004E9098 /* monster002.png in Resources */,
 				85C14B932827AB31004E9098 /* Main.storyboard in Resources */,
+				85C14BB52827ABD5004E9098 /* monster010.png in Resources */,
+				85C14BB72827ABD5004E9098 /* monster006.png in Resources */,
+				85C14BB42827ABD5004E9098 /* monster005.png in Resources */,
+				85C14BB02827ABD5004E9098 /* bg_blue@2x.png in Resources */,
+				85C14BB62827ABD5004E9098 /* monster004.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +224,7 @@
 				85C14B902827AB31004E9098 /* ViewController.swift in Sources */,
 				85C14B8C2827AB31004E9098 /* AppDelegate.swift in Sources */,
 				85C14B8E2827AB31004E9098 /* SceneDelegate.swift in Sources */,
+				85C14BBF2827ADD7004E9098 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
